@@ -1,2 +1,0 @@
-# kaggle_tutorial_docs
-kaggle_tutorial_docs
